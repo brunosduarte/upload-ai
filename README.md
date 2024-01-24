@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  <img alt="nlw-IA" src=".github/logo.png" width="60%"> <!-- <img alt="nlw-IA" src=".github/logo.png" width="25%">  -->
+  <img alt="nlw-IA" src=".github/logo.svg" width="60%">
 </p>
    <h1 align="center"> upload.ai </h1>
  </p>
-  	<br />
+<br />
 <p align="center"> 
    <img src="https://img.shields.io/github/languages/count/brunosduarte/nlw-ia" alt="Languages">
 	<img src="https://img.shields.io/github/repo-size/brunosduarte/nlw-ia " alt="Repo Size"> 
@@ -37,7 +37,7 @@ This innovative project, developed during the nlw-IA event led by Diego Fernande
 
 ### 🚀 Technologies
 
-- [TypeScriot][typescript]
+- [TypeScript][typescript]
 - [VS Code][vc]
 - [PNPm][PNPm]
 - [Vite][ViteJS]
@@ -85,7 +85,7 @@ $ npm install -g pnpm
 # Backend
 
 # Go to the repository
-$ cd /server
+$ cd server
 
 # Install the dependencies
 $ pnpm i
