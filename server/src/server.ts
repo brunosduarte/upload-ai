@@ -16,9 +16,7 @@ app.register(uploadVideoRoute)
 app.register(createTranscriptionRoute)
 app.register(generateAICompletionRoute)
 
-app.listen({
-  port: 0.0.0.0,
-}).then(() => {
+app.listen().then(() => {
   console.log(`Server running`)
 })
 
