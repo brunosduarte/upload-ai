@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export const api = axios.create({
-  baseURL: 'http://localhost:3333'
+  baseURL: 'https://nlwia-bsd.onrender.com' // 'http://localhost:3333' 
 })
