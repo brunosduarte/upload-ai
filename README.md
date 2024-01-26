@@ -1,7 +1,5 @@
-<!-- PROJECT LOGO -->
-
 <p align="center">
-  <img alt="nlw-IA" src=".github/logo.svg" width="25%">
+  <img alt="nlw-IA" src=".github/logo.svg" width="15%">
 </p>
    <h1 align="center"> upload.ai </h1>
  </p>
@@ -17,7 +15,6 @@
   	</a> 
 </p>
 
-<!-- TABLE OF CONTENTS -->
 
 ## 🗂 Contents
 
@@ -29,7 +26,6 @@
 - ⚖️ [License](#%EF%B8%8F-license)
 - 📫 [Contact](#-contact)
 
-<!-- ABOUT THE PROJECT -->
 
 ## 📋 Project
 
@@ -37,26 +33,17 @@ This innovative project, developed during the nlw-IA event led by Diego Fernande
 
 ### 🚀 Technologies
 
+- [OpenAI][openai]
+- [FFmpeg][ffmpeg]
+- [Radix][radix]
+- [TailwindCSS][tailwindcss]
 - [TypeScript][typescript]
-- [VS Code][vc]
-- [PNPm][PNPm]
-- [Vite][ViteJS]
-- [Shadcn/ui][shadcn/ui]
-- [Lucide][Lucide]
-- [ESlint][eslint]
-<!-- -   [CORS][cors]
-- [Expo][expo]
-- [Express][express]
-- [Insomnia][insomnia]
-- [KNEX.JS][knexjs]
 - [NodeJS][nodejs]
-- [Nodemon][nodemon]
-- [npm][npm]
-- [Prettier][prettier]
-- [React][react]
-- [React Native][reactnative]
-- [SQLite][sqlite]
-- [Yarn][yarn] -->
+- [Fastify][Fastify]
+- [Zod][zod]
+- [Prisma][prisma]
+- [Axios][axios]
+
 
 ## 📷 Preview
 
@@ -68,7 +55,7 @@ This innovative project, developed during the nlw-IA event led by Diego Fernande
 
 ## 📦 Instalation
 
-To clone and run this application, you will need [Git](https://git-scm.com), [NodeJS v18.17.1][nodejs] or higher + [npm v9.17.1][npm] or higher, and [PNPm 8.7.5][pnpm] installed on your computer. In your terminal, run:
+To clone and run this application, you will need [Git](gitlink), [NodeJS v18.17.1][nodejs] or higher + [npm v9.17.1][npm] or higher, and [PNPm 8.7.5][pnpm] installed on your computer. In your terminal, run:
 
 
 ```bash
@@ -120,39 +107,27 @@ $ pnpm i
 $ pnpm run dev
 ```
 
-<!-- LICENSE -->
 
 ## ⚖️ License
 
 This project is under license. [MIT](LICENSE).
 
-<!-- CONTACT -->
 
 ## 📫 Contact
 
 by [**Bruno Duarte**](https://www.linkedin.com/in/brunosduarte/) 🚀
 
+
 [nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
 [PNPm]: https://pnpm.io/pt/
 [npm]: https://www.npmjs.com/
-[ViteJS]: https://vitejs.dev/
-[shadcn/ui]: https://ui.shadcn.com/
-[Lucide]: https://lucide.dev/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[html]: https://www.w3schools.com/html/
-[express]: https://expressjs.com/
-[nodemon]: https://www.postgresql.org
-[expo]: https://expo.io
-[react]: https://pt-br.reactjs.org
-[reactnative]: https://reactnative.dev
-[insomnia]: https://insomnia.rest
-[sqlite]: https://www.sqlite.org
-[knexjs]: http://knexjs.org
-[cors]: https://www.npmjs.com/package/cors
-[prettier]: https://prettier.io
-[eslint]: https://eslint.org
-[celebrate]: https://github.com/arb/celebrate
 [typescript]: https://www.typescriptlang.org/
+[openai]: https://www.openai.com/
+[ffmpeg]: https://www.ffmpeg.com/
+[radix]: https://www.radix.com/
+[tailwindcss]: https://www.tailwindcss.com/
+[fastify]: https://www.fastify.com/
+[zod]: https://www.zod.com/
+[prisma]: https://www.prisma.com/
+[axios]: https://www.axios.com/
+[]
