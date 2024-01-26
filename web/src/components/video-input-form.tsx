@@ -11,10 +11,10 @@ import { api } from "@/lib/axios";
 type Status = 'waiting' | 'converting' | 'uploading' | 'generating' | 'success'
 
 const statusMessages = {
-  converting: 'Convertendo...',
-  generating: 'Transcrevendo...',
-  uploading: 'Carregando...',
-  success: 'Sucesso!',
+  converting: 'Converting...',
+  generating: 'Transcribing...',
+  uploading: 'Loading...',
+  success: 'Success!',
 }
 
 interface VideoInputFormProps {
@@ -126,7 +126,7 @@ export function VideoInputForm(props: VideoInputFormProps) {
       ) : (
         <>
           <FileVideo className='w-4 h-4'/>
-          Selecione um video
+          Select video
         </>
       )}
     </label>
@@ -136,13 +136,13 @@ export function VideoInputForm(props: VideoInputFormProps) {
     <Separator />
 
     <div className='space-y-2'>
-      <Label htmlFor='transcription_prompt'>Prompt de transcrição</Label>
+      <Label htmlFor='transcription_prompt'>Prompt of transcription</Label>
       <Textarea 
         ref={promptInputRef}
         disabled={status !== 'waiting'}
         id='transcription_prompt'
         className='h-18 leading-relaxed resize-none'
-        placeholder='Inclua palavras-chave mencionadas no video separadas por virgula (,)'
+        placeholder='Include keywords mentioned on the video separate by comma (,)'
       />
     </div>
 
@@ -154,7 +154,7 @@ export function VideoInputForm(props: VideoInputFormProps) {
     >
         {status === 'waiting' ? (
           <>
-            Carregar video
+            Load video
             <Upload className='w-4 h-4 ml-2'/>
           </>
         ): statusMessages[status]}
