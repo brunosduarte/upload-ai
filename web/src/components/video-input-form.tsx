@@ -18,7 +18,7 @@ const statusMessages = {
 }
 
 interface VideoInputFormProps {
-  onVideoUploaded: (id: string) => void
+  onVideoUploaded: (id: any) => void
 }
 
 export function VideoInputForm(props: VideoInputFormProps) {
