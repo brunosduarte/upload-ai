@@ -130,4 +130,3 @@ by [**Bruno Duarte**](https://www.linkedin.com/in/brunosduarte/) 🚀
 [zod]: https://www.zod.com/
 [prisma]: https://www.prisma.com/
 [axios]: https://www.axios.com/
-[]
