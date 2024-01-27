@@ -1,8 +1,4 @@
-<p align="center">
-  <img alt="upload.ai" src=".github/logo.svg" width="15%">
-</p>
-   <h1 align="center">upload.ai</h1>
- </p>
+ <h1 align="center">upload.ai</h1>
 <br />
 <p align="center"> 
    <img src="https://img.shields.io/github/languages/count/brunosduarte/upload-ai" alt="Languages">
