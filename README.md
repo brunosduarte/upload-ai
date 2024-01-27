@@ -29,15 +29,15 @@ This innovative project, developed during the nlw-IA event led by Diego Fernande
 
 ### 🚀 Technologies
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-2ea44f?logo=OpenAI)](https://openai.com)
-[![FFmpeg](https://img.shields.io/badge/FFmpeg-green?logo=FFmpeg)](https://ffmpeg.org)
-[![RadixUI](https://img.shields.io/badge/RadixUI-blue?logo=Radix+UI)](https://www.radix.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=TypeScript)](https://www.typescriptlang.org)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?logo=Tailwind+CSS&logoColor=white)](https://www.tailwindcss.com)
-[![Fastify](https://img.shields.io/badge/Fastify-black?logo=Fastify&logoColor=white)](https://www.fastify.dev)
-[![Zod](https://img.shields.io/badge/Zod-blue?logo=Zod&logoColor=black)](https://www.zod.dev)
-[![Prisma](https://img.shields.io/badge/Prisma-black?logo=Prisma&logoColor=white)](https://www.prisma.io)
-[![Axios](https://img.shields.io/badge/Axios-white?logo=Axios&logoColor=purple)](https://www.axios-http.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-gray?logo=OpenAI)](https://openai.com)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-gray?logo=FFmpeg)](https://ffmpeg.org)
+[![RadixUI](https://img.shields.io/badge/RadixUI-gray?logo=Radix+UI)](https://www.radix.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=TypeScript)](https://www.typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=Tailwind+CSS)](https://www.tailwindcss.com)
+[![Fastify](https://img.shields.io/badge/Fastify-gray?logo=Fastify)](https://www.fastify.dev)
+[![Zod](https://img.shields.io/badge/Zod-gray?logo=Zod)](https://www.zod.dev)
+[![Prisma](https://img.shields.io/badge/Prisma-gray?logo=Prisma)](https://www.prisma.io)
+[![Axios](https://img.shields.io/badge/Axios-gray?logo=Axios)](https://www.axios-http.com)
 
 
 ## 📷 Preview
