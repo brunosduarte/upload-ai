@@ -33,6 +33,8 @@ This innovative project, developed during the nlw-IA event led by Diego Fernande
 
 ### 🚀 Technologies
 
+[![My Skills](https://skillicons.dev/icons?i=openai,ffmpeg,radixui,tailwindcss,fastify,react,nodejs,vite,ts,zod,prisma,axios)](https://skillicons.dev)
+
 - [OpenAI][openai]
 - [FFmpeg][ffmpeg]
 - [Radix][radix]
