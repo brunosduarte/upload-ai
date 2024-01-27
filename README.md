@@ -31,13 +31,13 @@ This innovative project, developed during the nlw-IA event led by Diego Fernande
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-2ea44f?logo=OpenAI)](https://openai.com)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-green?logo=FFmpeg)](https://ffmpeg.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=TypeScript)](https://www.typescriptlang.org)
 [![RadixUI](https://img.shields.io/badge/RadixUI-blue?logo=Radix+UI)](https://www.radix.com)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?logo=Tailwind+CSS&logoColor=white)](https://www.tailwindcss.com)
 [![Fastify](https://img.shields.io/badge/Fastify-black?logo=Fastify&logoColor=white)](https://www.fastify.dev)
 [![Zod](https://img.shields.io/badge/Zod-blue?logo=Zod&logoColor=black)](https://www.zod.dev)
 [![Prisma](https://img.shields.io/badge/Prisma-black?logo=Prisma&logoColor=white)](https://www.prisma.io)
 [![Axios](https://img.shields.io/badge/Axios-white?logo=Axios&logoColor=purple)](https://www.axios-http.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=TypeScript)](https://www.typescriptlang.org)
 
 ## 📷 Preview
 
