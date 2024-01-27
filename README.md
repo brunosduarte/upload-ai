@@ -29,6 +29,8 @@ This innovative project, developed during the nlw-IA event led by Diego Fernande
 
 ### 🚀 Technologies
 
+[![React.js](https://img.shields.io/badge/React.js-gray?logo=React)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-gray?logo=Node.js)](https://nodejs.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-gray?logo=OpenAI)](https://openai.com)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-gray?logo=FFmpeg)](https://ffmpeg.org)
 [![RadixUI](https://img.shields.io/badge/RadixUI-gray?logo=Radix+UI)](https://www.radix.com)
